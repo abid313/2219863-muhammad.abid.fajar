@@ -1,3 +1,10 @@
+# Repository from Ruangguru CAMP
+
+### Studi independen - Back End Engineering Bootcamp
+### Period: 14 Feb 2022 - 27 Jul 2022
+
+### This repository contains assignments and posts during the Studi Indepen
+
 # Ruangguru Playground
 
 [![GitHub Super-Linter](https://github.com/ruang-guru/playground/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
